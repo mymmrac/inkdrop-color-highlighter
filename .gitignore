@@ -1,0 +1,8 @@
+# IDE Folders
+.DS_Store
+.idea
+.vscode
+
+# Node Folders
+npm-debug.log
+node_modules

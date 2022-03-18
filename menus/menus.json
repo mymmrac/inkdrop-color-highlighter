@@ -1,0 +1,26 @@
+{
+    "context-menu": {
+        ".CodeMirror": [
+            {
+                "label": "Toggle Color Highlighter",
+                "command": "color-highlighter:toggle"
+            }
+        ]
+    },
+    "menu": [
+        {
+            "label": "Plugins",
+            "submenu": [
+                {
+                    "label": "Color Highlighter",
+                    "submenu": [
+                        {
+                            "label": "Toggle",
+                            "command": "color-highlighter:toggle"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

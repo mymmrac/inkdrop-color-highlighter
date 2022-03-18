@@ -1,0 +1,18 @@
+{
+    "name": "color-highlighter",
+    "main": "./lib/index",
+    "version": "0.0.0",
+    "description": "Highlights color codes inside your text",
+    "keywords": [
+        "color",
+        "highlighter"
+    ],
+    "repository": "https://github.com/mymmrac/inkdrop-color-highlighter",
+    "license": "MIT",
+    "engines": {
+        "inkdrop": "^5.3.1"
+    },
+    "dependencies": {
+        "unist-util-visit": "2.0.3"
+    }
+}
