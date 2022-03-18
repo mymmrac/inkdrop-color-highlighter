@@ -10,7 +10,7 @@
     "repository": "https://github.com/mymmrac/inkdrop-color-highlighter",
     "license": "MIT",
     "engines": {
-        "inkdrop": "^5.3.1"
+        "inkdrop": "^5.x"
     },
     "dependencies": {
         "unist-util-visit": "2.0.3"
