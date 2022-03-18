@@ -1,6 +1,6 @@
 {
     "context-menu": {
-        ".CodeMirror": [
+        ".mde-preview": [
             {
                 "label": "Toggle Color Highlighter",
                 "command": "color-highlighter:toggle"
@@ -15,8 +15,20 @@
                     "label": "Color Highlighter",
                     "submenu": [
                         {
-                            "label": "Toggle",
+                            "label": "Enable / Disable",
                             "command": "color-highlighter:toggle"
+                        },
+                        {
+                            "label": "Colored Text",
+                            "command": "color-highlighter:colored-text-mode"
+                        },
+                        {
+                            "label": "Colored Text + Background",
+                            "command": "color-highlighter:colored-text-background-mode"
+                        },
+                        {
+                            "label": "Colored Background",
+                            "command": "color-highlighter:colored-background-mode"
                         }
                     ]
                 }
