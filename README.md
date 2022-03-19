@@ -24,5 +24,23 @@ Context menu on `preview` allows to quickly toggle plugin. Top level `Plugin` me
 
 ## Preview
 
-TBD
+<p align="center">
+  <img src="docs/screenshot-disabled.png" alt="Disabled"/>
+</p>
+<p align="center">Disabled</p>
+
+<p align="center">
+  <img src="docs/screenshot-colored-text.png" alt="Colored Text"/>
+</p>
+<p align="center">Colored Text</p>
+
+<p align="center">
+  <img src="docs/screenshot-colored-text-background.png" alt="Colored Text + Background"/>
+</p>
+<p align="center">Colored Text + Background</p>
+
+<p align="center">
+  <img src="docs/screenshot-colored-background.png" alt="Colored Background"/>
+</p>
+<p align="center">Colored Background</p>
 
