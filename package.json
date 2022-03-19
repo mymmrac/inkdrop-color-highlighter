@@ -5,7 +5,8 @@
     "description": "Highlights color codes inside your text",
     "keywords": [
         "color",
-        "highlighter"
+        "highlighter",
+        "color-highlighter"
     ],
     "repository": "https://github.com/mymmrac/inkdrop-color-highlighter",
     "license": "MIT",
