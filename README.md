@@ -1,5 +1,7 @@
 # Color Highlighter
 
+[![Latest Release](https://inkdrop-plugin-badge.vercel.app/api/version/color-highlighter?style=flat)](https://my.inkdrop.app/plugins/color-highlighter)
+[![Downloads](https://inkdrop-plugin-badge.vercel.app/api/downloads/color-highlighter?style=flat)](https://my.inkdrop.app/plugins/color-highlighter)
 [![License](https://img.shields.io/github/license/mymmrac/inkdrop-color-highlighter)](https://github.com/mymmrac/inkdrop-color-highlighter/blob/master/LICENSE)
 
 Highlights color codes inside your text.
@@ -24,23 +26,15 @@ Context menu on `preview` allows to quickly toggle plugin. Top level `Plugin` me
 
 ## Preview
 
-<p align="center">
-  <img src="docs/screenshot-disabled.png" alt="Disabled"/>
-</p>
+![Disabled](docs/screenshot-disabled.png)
 <p align="center">Disabled</p>
 
-<p align="center">
-  <img src="docs/screenshot-colored-text.png" alt="Colored Text"/>
-</p>
+![Colored Text](docs/screenshot-colored-text.png)
 <p align="center">Colored Text</p>
 
-<p align="center">
-  <img src="docs/screenshot-colored-text-background.png" alt="Colored Text + Background"/>
-</p>
+![Colored Text + Background](docs/screenshot-colored-text-background.png)
 <p align="center">Colored Text + Background</p>
 
-<p align="center">
-  <img src="docs/screenshot-colored-background.png" alt="Colored Background"/>
-</p>
+![Colored Background](docs/screenshot-colored-background.png)
 <p align="center">Colored Background</p>
 
