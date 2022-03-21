@@ -19,6 +19,16 @@
                             "command": "color-highlighter:toggle"
                         },
                         {
+                             "type": "separator"
+                        },
+                        {
+                            "label": "Enable / Disable Monospaced Font",
+                            "command": "color-highlighter:monospaced-font-toggle"
+                        },
+                        {
+                             "type": "separator"
+                        },
+                        {
                             "label": "Use Colored Text",
                             "command": "color-highlighter:colored-text-mode"
                         },
@@ -29,6 +39,21 @@
                         {
                             "label": "Use Colored Background",
                             "command": "color-highlighter:colored-background-mode"
+                        },
+                        {
+                             "type": "separator"
+                        },
+                        {
+                            "label": "Text No Case Change",
+                            "command": "color-highlighter:text-no-case-change"
+                        },
+                        {
+                            "label": "Text To Uppercase",
+                            "command": "color-highlighter:text-to-uppercase"
+                        },
+                        {
+                            "label": "Text To Lowercase",
+                            "command": "color-highlighter:text-to-lowercase"
                         }
                     ]
                 }
