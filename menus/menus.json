@@ -15,44 +15,60 @@
                     "label": "Color Highlighter",
                     "submenu": [
                         {
-                            "label": "Enable / Disable Highlighting",
+                            "label": "Highlighting",
+                            "command": "no-op"
+                        },
+                        {
+                            "label": "Enable / Disable",
                             "command": "color-highlighter:toggle"
                         },
                         {
                              "type": "separator"
                         },
                         {
-                            "label": "Enable / Disable Monospaced Font",
+                            "label": "Monospaced Font",
+                            "command": "no-op"
+                        },
+                        {
+                            "label": "Enable / Disable",
                             "command": "color-highlighter:monospaced-font-toggle"
                         },
                         {
                              "type": "separator"
                         },
                         {
-                            "label": "Use Colored Text",
+                            "label": "Display Mode",
+                            "command": "no-op"
+                        },
+                        {
+                            "label": "Colored Text",
                             "command": "color-highlighter:colored-text-mode"
                         },
                         {
-                            "label": "Use Colored Text + Background",
+                            "label": "Colored Text + Background",
                             "command": "color-highlighter:colored-text-background-mode"
                         },
                         {
-                            "label": "Use Colored Background",
+                            "label": "Colored Background",
                             "command": "color-highlighter:colored-background-mode"
                         },
                         {
                              "type": "separator"
                         },
                         {
-                            "label": "Text No Case Change",
+                            "label": "Text Case",
+                            "command": "no-op"
+                        },
+                        {
+                            "label": "No Case Change",
                             "command": "color-highlighter:text-no-case-change"
                         },
                         {
-                            "label": "Text To Uppercase",
+                            "label": "To Uppercase",
                             "command": "color-highlighter:text-to-uppercase"
                         },
                         {
-                            "label": "Text To Lowercase",
+                            "label": "To Lowercase",
                             "command": "color-highlighter:text-to-lowercase"
                         }
                     ]
