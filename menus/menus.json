@@ -15,19 +15,19 @@
                     "label": "Color Highlighter",
                     "submenu": [
                         {
-                            "label": "Enable / Disable",
+                            "label": "Enable / Disable Highlighting",
                             "command": "color-highlighter:toggle"
                         },
                         {
-                            "label": "Colored Text",
+                            "label": "Use Colored Text",
                             "command": "color-highlighter:colored-text-mode"
                         },
                         {
-                            "label": "Colored Text + Background",
+                            "label": "Use Colored Text + Background",
                             "command": "color-highlighter:colored-text-background-mode"
                         },
                         {
-                            "label": "Colored Background",
+                            "label": "Use Colored Background",
                             "command": "color-highlighter:colored-background-mode"
                         }
                     ]
