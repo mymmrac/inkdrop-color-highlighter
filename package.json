@@ -1,7 +1,7 @@
 {
     "name": "color-highlighter",
     "main": "./lib/index",
-    "version": "0.2.4",
+    "version": "0.2.5",
     "description": "Highlights color codes inside your text",
     "keywords": [
         "color",
