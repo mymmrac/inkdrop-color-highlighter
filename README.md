@@ -42,25 +42,25 @@ Context menu on `preview` allows to quickly toggle plugin. Top level `Plugin` me
 
 > Disabled
 
-![Disabled](docs/screenshot-disabled.jpg)
+![Disabled](docs/screenshot-disabled.webp)
 
 > Display Mode: Colored Text
 
-![Colored Text](docs/screenshot-colored-text.jpg)
+![Colored Text](docs/screenshot-colored-text.webp)
 
 > Display Mode: Colored Text + Background
 
-![Colored Text Background](docs/screenshot-colored-text-background.jpg)
+![Colored Text Background](docs/screenshot-colored-text-background.webp)
 
 > Display Mode: Colored Background
 
-![Colored Background](docs/screenshot-colored-background.jpg)
+![Colored Background](docs/screenshot-colored-background.webp)
 
 > Monospaced Font: Disabled
 
-![Regular Font](docs/screenshot-regular-font.jpg)
+![Regular Font](docs/screenshot-regular-font.webp)
 
 > Text Case: To Lowercase
 
-![To Lower](docs/screenshot-to-lowercase.jpg)
+![To Lower](docs/screenshot-to-lowercase.webp)
 
