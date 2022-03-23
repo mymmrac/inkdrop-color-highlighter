@@ -14,7 +14,11 @@ ipm install color-highlighter
 
 ## 🍀 Usage
 
-Simply install the plugin to make it work. 
+Simply install the plugin to make it work.
+
+|                  Disabled                  |                      Enabled                       |
+|:------------------------------------------:|:--------------------------------------------------:|
+| ![Disabled](docs/screenshot-disabled.webp) | ![Colored Text](docs/screenshot-colored-text.webp) |
 
 ## ⚙️ Settings
 
@@ -39,14 +43,6 @@ Context menu on `preview` allows to quickly toggle plugin. Top level `Plugin` me
 | Background Color            | -                                                | Changes background color in "Colored Text + Background" display mode | 
 
 ## 🖼️ Preview
-
-> Disabled
-
-![Disabled](docs/screenshot-disabled.webp)
-
-> Display Mode: Colored Text
-
-![Colored Text](docs/screenshot-colored-text.webp)
 
 > Display Mode: Colored Text + Background
 
