@@ -6,17 +6,17 @@
 
 Highlights color codes inside your text.
 
-## :jigsaw: Install
+## 🧩 Install
 
 ```console
 ipm install color-highlighter
 ```
 
-## :four_leaf_clover: Usage
+## 🍀 Usage
 
 Simply install the plugin to make it work. 
 
-## :gear: Settings
+## ⚙️ Settings
 
 There are some settings available (both from plugin settings and context menu on top).
 
@@ -38,7 +38,7 @@ Context menu on `preview` allows to quickly toggle plugin. Top level `Plugin` me
 | ➤ To Lowercase              | `color-highlighter:text-to-lowercase`            | Makes all color codes text lowercase                                 |
 | Background Color            | -                                                | Changes background color in "Colored Text + Background" display mode | 
 
-## :framed_picture: Preview
+## 🖼️ Preview
 
 > Disabled
 
