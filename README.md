@@ -6,40 +6,61 @@
 
 Highlights color codes inside your text.
 
-## Install
+## :jigsaw: Install
 
 ```console
 ipm install color-highlighter
 ```
 
-## Usage
+## :four_leaf_clover: Usage
 
-Simply install the plugin to make it work. There are some settings available (both from plugin settings and context menu on top):
+Simply install the plugin to make it work. 
 
-- Enabled `color-highlighter:toggle` - quick enable / disable
-- Monospaced Font `color-highlighter:monospaced-font-toggle` - enable / disable monospaced font
-- Diplay Mode - change appiarence of color codes
-    - Colored Text `color-highlighter:colored-text-mode` - changes color of color codes text
-    - Colored Text + Background `color-highlighter:colored-text-background-mode` - changes color of color codes text and adds backgound
-    - Colored Background - `color-highlighter:colored-background-mode` - adds colored background to color codes text
-- Text Case - change case of color codes text
-    - No Case Change `color-highlighter:text-no-case-change` - does not change text case
-    - To Uppercase `color-highlighter:text-to-uppercase` - makes all color codes text uppercase
-    - To Lowercase `color-highlighter:text-to-lowercase` - makes all color codes text lowercase
+## :gear: Settings
 
-Context menu on `preview` allows to quickly toggle plugin. Top level `Plugin` menu allows quicky change almost all settings.
+There are some settings available (both from plugin settings and context menu on top).
 
-## Preview
+Context menu on `preview` allows to quickly toggle plugin. Top level `Plugin` menu allows quickly change almost all settings.
+
+> Note: Most available settings have related to them commands.
+
+| Setting                     | Command                                          | Description                                                          |
+| --------------------------- | ------------------------------------------------ | -------------------------------------------------------------------- |
+| Enabled                     | `color-highlighter:toggle`                       | Quick enable / disable                                               |
+| Monospaced Font             | `color-highlighter:monospaced-font-toggle`       | Enable / disable monospaced font                                     |
+| Display Mode                | ▼                                                | Change appearance of color codes                                     |
+| ➤ Colored Text              | `color-highlighter:colored-text-mode`            | Changes color of color codes text                                    |
+| ➤ Colored Text + Background | `color-highlighter:colored-text-background-mode` | Changes color of color codes text and adds background                |
+| ➤ Colored Background        | `color-highlighter:colored-background-mode`      | Adds colored background to color codes text                          |
+| Text Case                   | ▼                                                | Change case of color codes text                                      |
+| ➤ No Case Change            | `color-highlighter:text-no-case-change`          | Does not change text case                                            |
+| ➤ To Uppercase              | `color-highlighter:text-to-uppercase`            | Makes all color codes text uppercase                                 |
+| ➤ To Lowercase              | `color-highlighter:text-to-lowercase`            | Makes all color codes text lowercase                                 |
+| Background Color            | -                                                | Changes background color in "Colored Text + Background" display mode | 
+
+## :framed_picture: Preview
+
+> Disabled
 
 ![Disabled](docs/screenshot-disabled.png)
-<p align="center">Disabled</p>
+
+> Display Mode: Colored Text
 
 ![Colored Text](docs/screenshot-colored-text.png)
-<p align="center">Colored Text</p>
 
-![Colored Text + Background](docs/screenshot-colored-text-background.png)
-<p align="center">Colored Text + Background</p>
+> Display Mode: Colored Text + Background
+
+![Colored Text Background](docs/screenshot-colored-text-background.png)
+
+> Display Mode: Colored Background
 
 ![Colored Background](docs/screenshot-colored-background.png)
-<p align="center">Colored Background</p>
+
+> Monospaced Font: Disabled
+
+![Regular Font](docs/screenshot-regular-font.png)
+
+> Text Case: To Lowercase
+
+![screenshot-to-lower.png](docs/screenshot-to-lowercase.png)
 
